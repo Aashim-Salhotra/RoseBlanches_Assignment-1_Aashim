@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoseBlanches_Assignment_Aashim", "RoseBlanches_Assignment_Aashim\RoseBlanches_Assignment_Aashim.csproj", "{7811A674-749F-45A0-8D5B-9A8B1C6F424A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7811A674-749F-45A0-8D5B-9A8B1C6F424A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7811A674-749F-45A0-8D5B-9A8B1C6F424A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7811A674-749F-45A0-8D5B-9A8B1C6F424A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7811A674-749F-45A0-8D5B-9A8B1C6F424A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85ED975C-7E3F-4C90-A0C4-C992BE429E26}
+	EndGlobalSection
+EndGlobal

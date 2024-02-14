@@ -1,0 +1,14 @@
+D:\W_24\CSD 2354 (C#)\Assignments\RoseBlanches_Assignment_Aashim\RoseBlanches_Assignment_Aashim\bin\Debug\net8.0\RoseBlanches_Assignment_Aashim.exe
+D:\W_24\CSD 2354 (C#)\Assignments\RoseBlanches_Assignment_Aashim\RoseBlanches_Assignment_Aashim\bin\Debug\net8.0\RoseBlanches_Assignment_Aashim.deps.json
+D:\W_24\CSD 2354 (C#)\Assignments\RoseBlanches_Assignment_Aashim\RoseBlanches_Assignment_Aashim\bin\Debug\net8.0\RoseBlanches_Assignment_Aashim.runtimeconfig.json
+D:\W_24\CSD 2354 (C#)\Assignments\RoseBlanches_Assignment_Aashim\RoseBlanches_Assignment_Aashim\bin\Debug\net8.0\RoseBlanches_Assignment_Aashim.dll
+D:\W_24\CSD 2354 (C#)\Assignments\RoseBlanches_Assignment_Aashim\RoseBlanches_Assignment_Aashim\bin\Debug\net8.0\RoseBlanches_Assignment_Aashim.pdb
+D:\W_24\CSD 2354 (C#)\Assignments\RoseBlanches_Assignment_Aashim\RoseBlanches_Assignment_Aashim\obj\Debug\net8.0\RoseBlanches_Assignment_Aashim.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_24\CSD 2354 (C#)\Assignments\RoseBlanches_Assignment_Aashim\RoseBlanches_Assignment_Aashim\obj\Debug\net8.0\RoseBlanches_Assignment_Aashim.AssemblyInfoInputs.cache
+D:\W_24\CSD 2354 (C#)\Assignments\RoseBlanches_Assignment_Aashim\RoseBlanches_Assignment_Aashim\obj\Debug\net8.0\RoseBlanches_Assignment_Aashim.AssemblyInfo.cs
+D:\W_24\CSD 2354 (C#)\Assignments\RoseBlanches_Assignment_Aashim\RoseBlanches_Assignment_Aashim\obj\Debug\net8.0\RoseBlanches_Assignment_Aashim.csproj.CoreCompileInputs.cache
+D:\W_24\CSD 2354 (C#)\Assignments\RoseBlanches_Assignment_Aashim\RoseBlanches_Assignment_Aashim\obj\Debug\net8.0\RoseBlanches_Assignment_Aashim.dll
+D:\W_24\CSD 2354 (C#)\Assignments\RoseBlanches_Assignment_Aashim\RoseBlanches_Assignment_Aashim\obj\Debug\net8.0\refint\RoseBlanches_Assignment_Aashim.dll
+D:\W_24\CSD 2354 (C#)\Assignments\RoseBlanches_Assignment_Aashim\RoseBlanches_Assignment_Aashim\obj\Debug\net8.0\RoseBlanches_Assignment_Aashim.pdb
+D:\W_24\CSD 2354 (C#)\Assignments\RoseBlanches_Assignment_Aashim\RoseBlanches_Assignment_Aashim\obj\Debug\net8.0\RoseBlanches_Assignment_Aashim.genruntimeconfig.cache
+D:\W_24\CSD 2354 (C#)\Assignments\RoseBlanches_Assignment_Aashim\RoseBlanches_Assignment_Aashim\obj\Debug\net8.0\ref\RoseBlanches_Assignment_Aashim.dll
